@@ -1,0 +1,21 @@
+Row Labels,Count of Amount,,,,,,,,,,,,,,,
+Chennai,128,,,,,,,,,,,,,,,0
+Coimbatore,143,,,,,,,,,,,,,,,0
+Erode,152,,,,,,,,,,,,,,,0
+Madurai,139,,,,,,,,,,,,,,,0
+Salem,156,,,,,,,,,,,,,,,0
+Tirunelveli,132,,,,,,,,,,,,,,,0
+Trichy,150,,,,,,,,,,,,,,,1
+(blank),,,,,,,,,,,,,,,,0
+Grand Total,1000,,,,,,,,,,,,,,,2
+,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,3
+,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,4
+,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,5
+,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,6
+
+# Dictionary
+# Col16: 0=|1=6. Account Type vs Average Balance � Area Chart|2=?? Steps:|3=(Use same pivot again)|4=1. Insert ? Area Chart (Insert ? Area Chart ? Stacked Area)|5=?? Screenshot Description:|6=Used pivot table to find average balance per account type and displayed it in an area chart for a smooth visual representation.
