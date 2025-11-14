@@ -183,5 +183,3 @@ The results support better understanding of customer activity and branch-wise fi
 
 ---
 
-
-Just tell me!
